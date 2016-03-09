@@ -66,7 +66,7 @@ body, body * {
 
 .colorOverlay {
     position: absolute;
-    background-color: #FD9E08;
+    background-color: #158FC9;
     opacity: 0.7;
     top: -1456px;
     left: -180px;
@@ -113,7 +113,7 @@ body, body * {
     z-index: 100;
     padding: 0;
     margin: 0;
-    background: #FFF7E9
+    background: #E8F3EF
 }
 
 .headline-text img {
@@ -156,7 +156,7 @@ body, body * {
 }
 
 .get-the-facts-button {
-    background-color: #158FC9;
+    background-color: #FD9E08;
     padding: 5px 15px 4px;
     border-radius: 2px;
     margin: 12px 15px 0 0;
